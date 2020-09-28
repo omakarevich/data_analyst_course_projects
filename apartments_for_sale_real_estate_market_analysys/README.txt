@@ -2,6 +2,7 @@ Real estate market analysis.
 
 Determine the market value of real estate objects and typical parameters of apartments.
 
+Result:
 Research analysis and data preprocessing for a dataset with advertisements for the sale of apartments in St. Petersburg has been carried out.
 
 The role of the area, ceilings, the number of rooms, the date of post
