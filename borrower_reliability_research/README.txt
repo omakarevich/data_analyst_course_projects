@@ -4,6 +4,7 @@ Based on statistics on the solvency of clients, investigate whether the marital 
 
 The data was cleaned from outliers, omissions and duplicates, data types were converted and lemmas highlighted.
 
+Result:
 The share of creditworthy clients was determined.
 
 The influence of marital status and the number of children on the fact of loan repayment on time has been analyzed.
